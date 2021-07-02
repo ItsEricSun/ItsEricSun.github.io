@@ -30,6 +30,7 @@ body {
 
 .navbar-collapse {
     justify-content: flex-end;
+    margin-left: 15px;
 }
 
 .header {
